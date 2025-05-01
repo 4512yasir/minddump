@@ -13,9 +13,6 @@
 - 🔄 Autosave & instant updates
 - ⚡ Fast and lightweight (no backend)
 
-## 📸 Screenshots
-
-*(Include screenshots of both light and dark mode if possible)*
 
 ## 🚀 Getting Started
 
@@ -63,6 +60,7 @@ Custom theming and responsiveness
 ### 📦 Deployment
 deployed using netlify 
 link below
+https://notetaking-app-minddump.netlify.app/
 
 ## 🙌 Acknowledgments
 1. Inspired by note-taking tools like Notion and Google Keep.
