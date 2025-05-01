@@ -13,9 +13,6 @@
 - 🔄 Autosave & instant updates
 - ⚡ Fast and lightweight (no backend)
 
-## 📸 Screenshots
-
-*(Include screenshots of both light and dark mode if possible)*
 
 ## 🚀 Getting Started
 
