@@ -137,6 +137,10 @@
     font-weight: bold;
     color: #ff9800;
   }
+
+  .note-tags {
+    margin-top: 10px;
+  }
   
   .tag {
     display: inline-block;

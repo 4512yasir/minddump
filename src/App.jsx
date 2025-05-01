@@ -152,8 +152,8 @@ function App() {
                 {note.image && <img src={note.image} alt="Note visual" />}
                 {note.tag && <span className="tag">{note.tag}</span>}
                 <div className="note-actions">
-                  <button onClick={() => editNote(note.id)}>✏️</button>
-                  <button onClick={() => deleteNote(note.id)}>🗑️</button>
+                  <button onClick={() => editNote(note.id)}>✏️ Edit</button>
+                  <button onClick={() => deleteNote(note.id)}>🗑️ Delete</button>
                   <button onClick={() => togglePin(note.id)}>{note.pinned ? '📌' : '📍'}</button>
                 </div>
               </>
